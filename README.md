@@ -10,8 +10,9 @@
 
 Though diverse, my interests and experiences are all unified by a love for learning, innovating, and exploring.  
 
-📫 Let's connect — I can't wait to learn from you. <br>
-[LinkedIn](https://www.linkedin.com/in/nlina/), [Email](linanguyen@alumni.ubc.ca)
+📫 Let's connect — I can't wait to learn from you. <br> <br>
+-  [LinkedIn](https://www.linkedin.com/in/nlina/)
+-  [Email](linanguyen@alumni.ubc.ca)
 <!--
 **n-lina/n-lina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
