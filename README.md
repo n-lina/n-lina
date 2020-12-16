@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hello World 👋 I'm Lina. 
 
+🌱 I like:
+-  (software) engineering competitions 
+-  app development 
+-  3D - origami 
+-  swimming, running 
+-  reading, writing
+-  hiking, travelling 
+
+Though diverse, my interests and experiences are all unified by a love for learning, innovating, and exploring.  
+
+📫 Let's connect — I can't wait to learn from you. <br>
+[LinkedIn](https://www.linkedin.com/in/nlina/), [Email](linanguyen@alumni.ubc.ca)
 <!--
 **n-lina/n-lina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
