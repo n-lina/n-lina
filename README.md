@@ -10,7 +10,7 @@
 
 Though diverse, my interests and experiences are all unified by a love for learning, innovating, and exploring.  
 
-📫 Let's connect — I can't wait to learn from you. <br> <br>
+📫 Let's connect — I can't wait to learn from you. 
 -  [LinkedIn](https://www.linkedin.com/in/nlina/)
 -  [Email](linanguyen@alumni.ubc.ca)
 <!--
