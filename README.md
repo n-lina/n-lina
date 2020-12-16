@@ -1,6 +1,6 @@
 ### Hello World 👋 I'm Lina. 
 
-🌱 I like:
+ <pre>🌱 I like: </pre>
 -  (software) engineering competitions 
 -  app development 
 -  3D - origami 
@@ -8,9 +8,9 @@
 -  reading, writing
 -  hiking, travelling 
 
-Though diverse, my interests and experiences are all unified by a love for learning, innovating, and exploring.  
+<pre>Though diverse, my interests and experiences are unified by a love for learning, innovating, and exploring.  </pre>
 
-📫 Let's connect — I can't wait to learn from you. 
+ <pre>📫 Let's connect — I can't wait to learn from you. </pre>
 -  [LinkedIn](https://www.linkedin.com/in/nlina/)
 -  [Email](linanguyen@alumni.ubc.ca)
 <!--
