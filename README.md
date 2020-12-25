@@ -13,7 +13,7 @@ Though diverse, my interests and experiences are unified by a love for learning,
 📫 **Let's connect — I can't wait to learn from you.** 
 -  [LinkedIn](https://www.linkedin.com/in/nlina/)
 -  [Email](mailto:linanguyen@alumni.ubc.ca)
--  <a href="https://github.com/n-lina/n-lina/raw/main/Lina%20Nguyen%20Resume%20122420.pdf" download="Lina Nguyen Resume">Resume</a>
+-  <a href="https://github.com/n-lina/n-lina/raw/main/Lina%20Nguyen%20Resume.pdf" download>Resume</a>
 <!--
 **n-lina/n-lina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
