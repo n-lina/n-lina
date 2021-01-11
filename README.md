@@ -1,7 +1,8 @@
 ### Hello World 👋 I'm Lina. 
 
 🌱 **I like:** 
--  (software) engineering competitions 
+-  (software) engineering competitions
+-  hackathons 
 -  app development 
 -  3D - origami 
 -  swimming, running 
