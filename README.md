@@ -2,7 +2,7 @@
 
 🌱 **I like:** 
 -  (software) engineering competitions, hackathons
--  web development, design  
+-  web development, UI/UX design  
 -  3D - origami, papercraft
 -  swimming, running 
 -  reading, writing
