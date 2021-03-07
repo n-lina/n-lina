@@ -1,15 +1,5 @@
 ### Hello World 👋 I'm Lina. 
 
-🌱 **I like:** 
--  (software) engineering competitions, hackathons
--  web development, UI/UX design  
--  3D - origami, papercraft
--  swimming, running 
--  reading, writing
--  hiking, travelling 
-
-Though diverse, my interests and experiences are unified by a love for learning, innovating, and exploring. 
-
 📫 **Let's connect — I can't wait to learn from you.** 
 -  <a href="https://github.com/n-lina/n-lina/raw/main/Lina%20Nguyen%20Resume.pdf" download>Resume</a>
 -  [LinkedIn](https://www.linkedin.com/in/nlina/)
