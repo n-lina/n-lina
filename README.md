@@ -1,6 +1,6 @@
 ### Hello World 👋 I'm Lina. 
 
-📫 **Let's connect — I can't wait to learn from you.** 
+📩 **Let's connect — I can't wait to learn from you.** 
 -  [Resume](https://github.com/n-lina/n-lina/raw/main/Lina%20Nguyen%20Resume.pdf)
 -  [LinkedIn](https://www.linkedin.com/in/nlina/)
 -  [Email](mailto:linanguyen@alumni.ubc.ca)
