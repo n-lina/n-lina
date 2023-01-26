@@ -1,7 +1,7 @@
 ### Hello World 👋🏻 I'm Lina. 
 
 📫 **Let's connect! I can't wait to learn from you.** 
--  [Resume](https://github.com/n-lina/n-lina/raw/a9ee2d63582a0789f0d2eb1c10e2747db319bcf6/LinaNguyen_SWE_Resume.pdf)
+-  [Resume](https://github.com/n-lina/n-lina/raw/a9ee2d63582a0789f0d2eb1c10e2747db319bcf6/Lina_Nguyen_SWE_Resume.pdf)
 -  [LinkedIn](https://www.linkedin.com/in/nlina/)
 -  [Email](mailto:linanguyen@alumni.ubc.ca)
 
